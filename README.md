@@ -1,21 +1,25 @@
-# Milad Haidari
+# Milad Haidari 🇩🇰
 
-Engineering student interested in **software engineering, backend development, and cloud computing**.
+**Cyber Systems engineering student at the Technical University of Denmark (DTU).**
 
-I'm developing my technical foundation through university coursework and hands-on programming projects, with a focus on writing clear, maintainable code and improving my software development practices.
+I'm studying General Engineering with a specialisation in **Cyber Systems**. I'm interested in **full-stack software development**, particularly **backend development**, and have a growing interest in **data analysis and data science**.
 
-### Technical Skills & Tools
+## Technical Skills & Knowledge
 
-- **Programming:** Java, C++
-- **Version Control:** Git, GitHub
-- **Areas of Interest:** Software Engineering, Backend Development, Cloud Computing
+- **Programming:** Python (my strongest foundation), Java (introductory object-oriented programming), and F# (currently learning functional programming).
+- **Tools & Version Control:** Git, GitHub, Visual Studio Code; introductory exposure to Maven and continuous integration.
+- **Software Engineering:** Object-oriented design, UML class diagrams, SOLID principles, design patterns, Agile methodologies, and introductory software testing concepts, including unit testing, TDD, and BDD.
+- **Computer Systems:** Fundamentals of computer architecture, networking, communication protocols, and embedded systems.
+- **Mathematics & Data:** Statistics, probability, regression, introductory data analysis, calculus, linear algebra, differential equations, and mathematical optimisation.
 
-### Experience
+## Current Focus
 
-I am a Teaching Assistant for **Advanced Engineering Mathematics 2**, supporting students in developing their mathematical understanding and problem-solving skills.
+- Applying my academic knowledge to practical, well-documented software projects.
+- Strengthening my programming skills and exploring the development of complete applications, from backend logic to user interfaces.
+- Building on my mathematics and statistics background to explore data analysis and data science.
 
-### Current Focus
+## Beyond the Code
 
-- Building practical software projects and documenting my work
-- Strengthening my software development and version control workflows
-- Exploring backend systems and cloud technologies
+I'm a **Teaching Assistant for Advanced Engineering Mathematics 2** at DTU and a **national-team taekwondo athlete**.
+
+These roles have strengthened my communication, problem-solving, discipline, and ability to balance demanding academic and athletic commitments.
