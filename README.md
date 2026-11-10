@@ -1,16 +1,21 @@
-## Hi there 👋
+# Milad Haidari
 
-<!--
-**MiladHaidari/MiladHaidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student interested in **software engineering, backend development, and cloud computing**.
 
-Here are some ideas to get you started:
+I'm developing my technical foundation through university coursework and hands-on programming projects, with a focus on writing clear, maintainable code and improving my software development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills & Tools
+
+- **Programming:** Java, C++
+- **Version Control:** Git, GitHub
+- **Areas of Interest:** Software Engineering, Backend Development, Cloud Computing
+
+### Experience
+
+I am a Teaching Assistant for **Advanced Engineering Mathematics 2**, supporting students in developing their mathematical understanding and problem-solving skills.
+
+### Current Focus
+
+- Building practical software projects and documenting my work
+- Strengthening my software development and version control workflows
+- Exploring backend systems and cloud technologies
